@@ -19,5 +19,7 @@ The Stock Portfolio Optimizer is a web application built with Flask that helps i
 - **Pandas**: Data manipulation and analysis library.
 - **Plotly**: Library for creating interactive visualizations.
 
+## Output Sample
+<img width="1325" alt="image" src="https://github.com/user-attachments/assets/c8a5269b-6bd6-417c-82be-52ad58fd2428">
 
 
